@@ -1,0 +1,21 @@
+full_name,family,reason
+scikit-learn-contrib/imbalanced-learn,Machine learning,Learning from imbalanced datasets
+scikit-learn-contrib/category_encoders,Machine learning,Encoding categorical features
+scikit-learn-contrib/metric-learn,Machine learning,Metric learning with a scikit-learn interface
+scikit-learn-contrib/sklearn-pandas,Machine learning,Integration of tabular data with scikit-learn
+scikit-learn-contrib/hdbscan,Clustering,Density based clustering
+DistrictDataLabs/yellowbrick,Visualization,Visual diagnostics for machine learning
+yzhao062/pyod,Anomaly detection,Outlier detection toolkit
+yzhao062/combo,Anomaly detection,Combination of machine learning models
+mwaskom/seaborn,Visualization,Statistical visualization
+has2k1/plotnine,Visualization,Grammar of graphics for Python
+has2k1/mizani,Visualization,Scales and transformations used by plotnine
+ResidentMario/missingno,Visualization,Visualization of missing tabular data
+raphaelvallat/pingouin,Statistics,Statistical tests and analysis
+CamDavidsonPilon/lifelines,Statistics,Survival analysis
+rasbt/mlxtend,Machine learning,Extensions for machine learning workflows
+maximtrp/scikit-posthocs,Statistics,Post hoc statistical tests
+NicolasHug/Surprise,Machine learning,Recommendation algorithms with a scikit-learn style interface
+yzhao062/SUOD,Anomaly detection,Scalable unsupervised outlier detection
+alkaline-ml/pmdarima,Time series,Statistical time series modeling
+skforecast/skforecast,Time series,Forecasting using machine learning regressors

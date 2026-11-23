@@ -1,0 +1,231 @@
+{
+  "agreement": [
+    {
+      "first": "louvain:42",
+      "pair_agreement": 1.0,
+      "second": "louvain:43"
+    },
+    {
+      "first": "louvain:42",
+      "pair_agreement": 1.0,
+      "second": "louvain:44"
+    },
+    {
+      "first": "louvain:42",
+      "pair_agreement": 1.0,
+      "second": "girvan_newman:None"
+    },
+    {
+      "first": "louvain:43",
+      "pair_agreement": 1.0,
+      "second": "louvain:44"
+    },
+    {
+      "first": "louvain:43",
+      "pair_agreement": 1.0,
+      "second": "girvan_newman:None"
+    },
+    {
+      "first": "louvain:44",
+      "pair_agreement": 1.0,
+      "second": "girvan_newman:None"
+    }
+  ],
+  "girvan_newman_hierarchy": [
+    {
+      "communities": 1,
+      "modularity": 0.0
+    },
+    {
+      "communities": 2,
+      "modularity": 0.4673682689613197
+    },
+    {
+      "communities": 3,
+      "modularity": 0.4404538837723028
+    },
+    {
+      "communities": 4,
+      "modularity": 0.42762564953155247
+    },
+    {
+      "communities": 5,
+      "modularity": 0.4047095571687739
+    },
+    {
+      "communities": 6,
+      "modularity": 0.3944647865706649
+    },
+    {
+      "communities": 7,
+      "modularity": 0.37504778359966473
+    },
+    {
+      "communities": 8,
+      "modularity": 0.35734407100236537
+    },
+    {
+      "communities": 9,
+      "modularity": 0.3460283704539167
+    },
+    {
+      "communities": 10,
+      "modularity": 0.32014408965440466
+    },
+    {
+      "communities": 11,
+      "modularity": 0.30543108304643524
+    },
+    {
+      "communities": 12,
+      "modularity": 0.28637217516998953
+    },
+    {
+      "communities": 13,
+      "modularity": 0.27239458519694787
+    },
+    {
+      "communities": 14,
+      "modularity": 0.25940912582269715
+    },
+    {
+      "communities": 15,
+      "modularity": 0.23373135889773855
+    },
+    {
+      "communities": 16,
+      "modularity": 0.23153280165520165
+    },
+    {
+      "communities": 17,
+      "modularity": 0.22198664022209152
+    },
+    {
+      "communities": 18,
+      "modularity": -0.18680498018278802
+    }
+  ],
+  "isolates": [
+    "repository:14063354",
+    "repository:86715491"
+  ],
+  "runs": [
+    {
+      "communities": [
+        [
+          "repository:105699750",
+          "repository:12420595",
+          "repository:127584791",
+          "repository:22937749",
+          "repository:23011147",
+          "repository:337705968",
+          "repository:34392144",
+          "repository:4704710",
+          "repository:47077067",
+          "repository:54834492",
+          "repository:59121694",
+          "repository:62319878",
+          "repository:71709976",
+          "repository:89276692",
+          "repository:95150484",
+          "repository:9610653"
+        ],
+        [
+          "repository:196780423",
+          "repository:222815883"
+        ]
+      ],
+      "method": "louvain",
+      "modularity": 0.4673682689613197,
+      "seed": 42
+    },
+    {
+      "communities": [
+        [
+          "repository:105699750",
+          "repository:12420595",
+          "repository:127584791",
+          "repository:22937749",
+          "repository:23011147",
+          "repository:337705968",
+          "repository:34392144",
+          "repository:4704710",
+          "repository:47077067",
+          "repository:54834492",
+          "repository:59121694",
+          "repository:62319878",
+          "repository:71709976",
+          "repository:89276692",
+          "repository:95150484",
+          "repository:9610653"
+        ],
+        [
+          "repository:196780423",
+          "repository:222815883"
+        ]
+      ],
+      "method": "louvain",
+      "modularity": 0.4673682689613197,
+      "seed": 43
+    },
+    {
+      "communities": [
+        [
+          "repository:105699750",
+          "repository:12420595",
+          "repository:127584791",
+          "repository:22937749",
+          "repository:23011147",
+          "repository:337705968",
+          "repository:34392144",
+          "repository:4704710",
+          "repository:47077067",
+          "repository:54834492",
+          "repository:59121694",
+          "repository:62319878",
+          "repository:71709976",
+          "repository:89276692",
+          "repository:95150484",
+          "repository:9610653"
+        ],
+        [
+          "repository:196780423",
+          "repository:222815883"
+        ]
+      ],
+      "method": "louvain",
+      "modularity": 0.4673682689613197,
+      "seed": 44
+    },
+    {
+      "communities": [
+        [
+          "repository:105699750",
+          "repository:12420595",
+          "repository:127584791",
+          "repository:22937749",
+          "repository:23011147",
+          "repository:337705968",
+          "repository:34392144",
+          "repository:4704710",
+          "repository:47077067",
+          "repository:54834492",
+          "repository:59121694",
+          "repository:62319878",
+          "repository:71709976",
+          "repository:89276692",
+          "repository:95150484",
+          "repository:9610653"
+        ],
+        [
+          "repository:196780423",
+          "repository:222815883"
+        ]
+      ],
+      "method": "girvan_newman",
+      "modularity": 0.4673682689613197,
+      "seed": null
+    }
+  ],
+  "status": "complete"
+}

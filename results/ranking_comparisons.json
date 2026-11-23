@@ -1,0 +1,30 @@
+{
+  "developers": {
+    "binary_vs_log_pagerank": {
+      "spearman": 0.1501502878178274,
+      "top10_overlap": 0.3
+    },
+    "degree_vs_pagerank": {
+      "spearman": 0.3445456352126103,
+      "top10_overlap": 1.0
+    },
+    "pagerank_vs_hits": {
+      "spearman": 0.019936301234824167,
+      "top10_overlap": 0.3
+    }
+  },
+  "repositories": {
+    "binary_vs_log_pagerank": {
+      "spearman": 0.9996239894584122,
+      "top10_overlap": 1.0
+    },
+    "degree_vs_pagerank": {
+      "spearman": 0.9966127916991925,
+      "top10_overlap": 1.0
+    },
+    "pagerank_vs_hits": {
+      "spearman": 0.8148984198645597,
+      "top10_overlap": 0.8
+    }
+  }
+}

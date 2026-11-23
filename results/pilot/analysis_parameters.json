@@ -1,0 +1,16 @@
+{
+  "bridge_distance": "inverse Jaccard",
+  "figure_layout_seed": 42,
+  "girvan_newman": "unweighted edge betweenness; full hierarchy; best Jaccard-weighted modularity",
+  "hits_direction": "developer -> repository",
+  "louvain_resolution": 1,
+  "louvain_seeds": [
+    42,
+    43,
+    44
+  ],
+  "max_iter": 1000,
+  "pagerank_alpha": 0.85,
+  "pagerank_tol": 1e-12,
+  "projection": "Jaccard of binary contributor neighborhoods"
+}

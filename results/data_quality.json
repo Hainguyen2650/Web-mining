@@ -1,0 +1,17 @@
+{
+  "anonymous_or_unidentified_excluded": 0,
+  "anonymous_scope": "Only identified contributors requested; anonymous records are not enumerated",
+  "bot_records_excluded": 7,
+  "bot_rule": "type Bot or login ending in [bot] or -bot; remaining automation may be missed",
+  "complete": true,
+  "contributor_records": 1197,
+  "developers": 1124,
+  "duplicate_edges": 0,
+  "edges": 1190,
+  "excluded_repositories": {},
+  "failed_pages": 0,
+  "included_repositories": 20,
+  "missing_pages": 0,
+  "missing_required_fields": 0,
+  "selected_repositories": 20
+}

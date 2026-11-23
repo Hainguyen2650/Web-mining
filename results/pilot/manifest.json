@@ -1,0 +1,95 @@
+{
+  "collection_end": "2026-11-23T09:30:38.648792+00:00",
+  "collection_start": "2026-11-23T09:30:12.693007+00:00",
+  "dependencies": {
+    "matplotlib": "3.11.2",
+    "networkx": "3.7",
+    "numpy": "2.5.5",
+    "scipy": "1.18.1"
+  },
+  "processed_sha256": {
+    "developers.csv": "59dbf43f7052ecebf84e174923c5682000487539237577559c064f3586be2297",
+    "interactions.csv": "8f1037ef545e84ad8e4ea07ca99c4b1a21ee8de18866cffe4bcfcb0f41555da6",
+    "repositories.csv": "24d33209eb174bca78b71fa9bada13a7c5bb105deaa4e52f8576cae8b8663feb"
+  },
+  "python": "3.12.12",
+  "raw_sha256": {
+    "1ce5ed9e6803baf2a4b386b11d0f3e9d665531c545c1f1d4b9f586e1d46ff50c.json": "84e0e7aff5af866e75add5b5a37acca96766b4981b099440342c107ba132a873",
+    "236d07c497d1f9a6855d70bf9017d953ee664cd7a0b895cd2b8d2a1e12e7e6fd.json": "d8d16f881fb4c8609025e83641c539d0d7f275ec4f1201134ae11a169206a58e",
+    "26d67379afa09a2580c8853aaa6b263bc7ef02421319eb0f73e5847d383845ab.json": "7293fcebd460ed41583ce9d562b38cfd87a4a73d0c76c9985214e1a5d1a5b1ef",
+    "2b46cdea4bfc4461e8c8e6e5b8edbde53169a826c59d3166680ba8006c586285.json": "80b2017638a37f6072c5fa7cef7755162e5b36ece783b58d0484b80a2c52dd41",
+    "2bb87750cc3aa7e93ef0f3734c49eaae0abe43239cf5f2c0cccd926035c0e6ef.json": "03fa7441f8db30bbd4f3961c31930891492b952ec292e36e8a8f6ffd760c69e1",
+    "3a90e28a23c1db26a75da2f6fe5905ad4c3fb21799271449275a3051a391daa4.json": "b48ced9763c7ee98eef3a4f828088500e23c32cda57a7ba4470fc7e04fe347ad",
+    "50b3ab313cf4f7d4af10a60719279eabd9af824b135537ea1773168b5e90e934.json": "f96fa926d2df42e408ce0dda1a980f81a590a995f9b69f1520ba31d0c973a3f2",
+    "5baed79643c71f1720e907ecdaa9969d25b5677b3bd3cbd466c87811c6b8aaab.json": "53ed4b27962ba945b7dfdcc61826b4a77eef8fe388fa340c5e7d42f826769f87",
+    "5e7ba342942677542e167abfd6f793f17714017ba5ab6a0c0ce31e755cdf2804.json": "637446db461206af19045cf26e55452ca6b47cd0ef66a2b3efa58d4cbdfd4483",
+    "7071771037c6c6b62eabbdbd5ad60fbe82455f43b2b2b2238bb13f547341ac66.json": "f31cc1f3159563314b371e33bc9bef1877c8cab05f61b2914f16c4204a89a858",
+    "7ae0dfcbbe3b8e8832b9a7b4488c0adf958d6021f240ca76d2af410f5c9f710e.json": "fa14a5820e27032b13530b8dc4c9c85185e3185983edc3fb4a57ce905b1856dc",
+    "7dec0c40c0c8049e9da1102c680de7e26eefef5da8d80836067b7c69cd32c51f.json": "340758f3f5cc0c146af1db65c3ba7650a34d9150427f144199462961bcf470da",
+    "8e5a995efcdec31d238bae2c78416ed11547b854599d8e2e6c1a4a09554eb0e9.json": "0cf743ad529e2abceb0c735ddb5563f842c1a93dd7d798b93ecc731e9f04373e",
+    "9c3fd2b8b368585657fce3bf02e18a540908ed1566659098ed4ca0cd6df4800f.json": "d7927a21dfecda20079259829e215c71420ce9ef2264ca99ed42a5df8bbfb8ff",
+    "a1099154866dfbdf1a6fbe247a733dc7285ae83339980c3d5cef921caad84a6e.json": "787decfcfd57fb8814e19ab5199cb49bab60c70a5dc22f5b7ff3444801a4c318",
+    "a38a378af3edc3e379bedb685b09323ae90a250aa22294e118b10c45577dcd1b.json": "c794b70427255e069136dd6e4028358925299b0b0a987b948ce5dd280b429469",
+    "ac732575084f7b8cf7a195014de980ad26b32293d5bf5c4006209190e4a58e91.json": "bb670b51f618e7ec327a3f612545c6c07fb269fa7e3b7b24daf2334778d63ca3",
+    "b27bbaa93998eab4b08340bcc03d3b67e339484cb40ee8930ed28ebc5ba47b38.json": "c0d2a2a1ccdb78f27959a2bc312ebd0552bbdd069a517155c779b0099715d1cf",
+    "bd4a3e168379c3bb67095a7a15632255a26159ea49f910164db1975df7ef4eff.json": "9c920e8a7b08f7d144c5e1e307a7c5ad7e842e1d8257b18c28e5432cfab0c419",
+    "c0263a0e4d80c217643e1bf0cfb28bc05d30f91860a998f0391e26f0c8d86878.json": "00bfee47a076adfd88dc34eb7aec3a891c3800ca83e57e4090565d7b57042d2e",
+    "e0e0a50028e3ec15c1eaa694ae567c8b9932d07ea434ea2bd2da69875f49dfe1.json": "6bd53d229e2714c82b96de7117b99764a13cd865afa2be26cdf6f126d094d142",
+    "eae957a611e92411861013da2d6fa657a576470eb9cac213045d89d61fa1fb59.json": "ecb4f3e11c3398b9897d846fe6f384e2a0b0a49f71e22973df5c27898b0ff7a0",
+    "ef24243263816a8d1de41b6344fd236de20bd254e9feed07b29c65bdbf5830b9.json": "629e51b52d4e667124407be3e8153a87635bee4469e95d19496eaed6f348bd92"
+  },
+  "schema_version": 1,
+  "seed_sha256": "821dbe8e7b7d276925d77173c9fd573fa54d2ff0e4d965a129641ec0457bb984",
+  "seeds": [
+    {
+      "family": "Machine learning",
+      "full_name": "scikit-learn-contrib/imbalanced-learn",
+      "reason": "Learning from imbalanced datasets"
+    },
+    {
+      "family": "Machine learning",
+      "full_name": "scikit-learn-contrib/category_encoders",
+      "reason": "Encoding categorical features"
+    },
+    {
+      "family": "Machine learning",
+      "full_name": "scikit-learn-contrib/metric-learn",
+      "reason": "Metric learning with a scikit-learn interface"
+    },
+    {
+      "family": "Machine learning",
+      "full_name": "scikit-learn-contrib/sklearn-pandas",
+      "reason": "Integration of tabular data with scikit-learn"
+    },
+    {
+      "family": "Clustering",
+      "full_name": "scikit-learn-contrib/hdbscan",
+      "reason": "Density based clustering"
+    },
+    {
+      "family": "Visualization",
+      "full_name": "DistrictDataLabs/yellowbrick",
+      "reason": "Visual diagnostics for machine learning"
+    },
+    {
+      "family": "Anomaly detection",
+      "full_name": "yzhao062/pyod",
+      "reason": "Outlier detection toolkit"
+    },
+    {
+      "family": "Anomaly detection",
+      "full_name": "yzhao062/combo",
+      "reason": "Combination of machine learning models"
+    },
+    {
+      "family": "Visualization",
+      "full_name": "mwaskom/seaborn",
+      "reason": "Statistical visualization"
+    },
+    {
+      "family": "Visualization",
+      "full_name": "has2k1/plotnine",
+      "reason": "Grammar of graphics for Python"
+    }
+  ]
+}

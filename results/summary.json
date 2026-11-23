@@ -1,0 +1,20 @@
+{
+  "bipartite_density": 0.052935943060498224,
+  "component_sizes": [
+    1101,
+    22,
+    21
+  ],
+  "components": 3,
+  "developers": 1124,
+  "edges": 1190,
+  "eligibility_note": "Upper bound before sequential edge holdout; no recommendation experiment run",
+  "isolates": [],
+  "potential_holdout_developers": 46,
+  "projection_edges": 68,
+  "projection_isolates": [
+    "repository:14063354",
+    "repository:86715491"
+  ],
+  "repositories": 20
+}

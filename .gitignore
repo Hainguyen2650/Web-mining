@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+data/raw/
+*.tmp
+
+report/
+Slides/
+output/
+AGENTS.md
+GOAL.md
+PLAN.md
+ROADMAP.md

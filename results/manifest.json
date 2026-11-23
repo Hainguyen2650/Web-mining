@@ -1,0 +1,167 @@
+{
+  "collection_end": "2026-11-23T09:32:01.310016+00:00",
+  "collection_start": "2026-11-23T09:30:12.693007+00:00",
+  "dependencies": {
+    "matplotlib": "3.11.2",
+    "networkx": "3.7",
+    "numpy": "2.5.5",
+    "scipy": "1.18.1"
+  },
+  "processed_sha256": {
+    "developers.csv": "2cf94967dcf70e7630aec4612fae2112550c5335f6aacce9dddf9aaa36242402",
+    "interactions.csv": "18206745d215eec1ffd84e3acdee9ad987d1d3227f1d391c2d23f908418b1bfd",
+    "repositories.csv": "672b3a010ae1a366de0541ad24f2d6b6c0c18caf45778ed8d4f6b5573894f3b7"
+  },
+  "python": "3.12.12",
+  "raw_sha256": {
+    "16ab2eaa05da6bc9feb682322ae330e41e055eb4a679b4812c320bf9f226d60e.json": "7d7e24be7ab0a0303eb365bc456cc930564722c9ede0c082287f2d283e976608",
+    "1a13cec14886db4cab3c0f0b08caf78b03011414a31519498e5c9b7dd7e78303.json": "6e03e04247bd12c4513e512f0c10c8a7b8b179a689ebe514506777d72e4cbd71",
+    "1ce5ed9e6803baf2a4b386b11d0f3e9d665531c545c1f1d4b9f586e1d46ff50c.json": "84e0e7aff5af866e75add5b5a37acca96766b4981b099440342c107ba132a873",
+    "1f15d1da1a89eb684e7baac6167c93c48564abf27e49abc3f361fc74da2d80f8.json": "14c8ee67da39fe451835f8e0eaf2187cf6d5c40d428f7146684c23f7fd0fd7f4",
+    "20999ef7af57007acf3ba8aea291bfbbd79eee32b5c1ff10ac1863160dc5f460.json": "547e98ef5a694d24501d81200d75d45f91b6694fb6af18057c231a2494a32211",
+    "236d07c497d1f9a6855d70bf9017d953ee664cd7a0b895cd2b8d2a1e12e7e6fd.json": "d8d16f881fb4c8609025e83641c539d0d7f275ec4f1201134ae11a169206a58e",
+    "26d67379afa09a2580c8853aaa6b263bc7ef02421319eb0f73e5847d383845ab.json": "7293fcebd460ed41583ce9d562b38cfd87a4a73d0c76c9985214e1a5d1a5b1ef",
+    "2b46cdea4bfc4461e8c8e6e5b8edbde53169a826c59d3166680ba8006c586285.json": "80b2017638a37f6072c5fa7cef7755162e5b36ece783b58d0484b80a2c52dd41",
+    "2bb87750cc3aa7e93ef0f3734c49eaae0abe43239cf5f2c0cccd926035c0e6ef.json": "03fa7441f8db30bbd4f3961c31930891492b952ec292e36e8a8f6ffd760c69e1",
+    "38c8e2c90ff86f086e993e717e86f448a0b8191e23d3ac55d83f03b2c89ffd38.json": "544b05dc5f4075ff63113cd6b3297d33aace2a2ac7d39214d82057d6a2525fd3",
+    "3a90e28a23c1db26a75da2f6fe5905ad4c3fb21799271449275a3051a391daa4.json": "b48ced9763c7ee98eef3a4f828088500e23c32cda57a7ba4470fc7e04fe347ad",
+    "3e6fda7cbabd48f1771506a7e9263e3d3ea221ec8dfd7aed8eb0579a8330fb05.json": "82df6efd260c4b51000d0ea1e6aa6cf7721806bc5b3f2295fd8bd044986c9dc3",
+    "50b3ab313cf4f7d4af10a60719279eabd9af824b135537ea1773168b5e90e934.json": "f96fa926d2df42e408ce0dda1a980f81a590a995f9b69f1520ba31d0c973a3f2",
+    "5b4182347cf2452ff645f7fd93e0591a0000322b138ccf84131bcf58d65eb3b3.json": "031430fac3f2f70de5586679f3dc01c86190c8d0990f38b306c448f25bb32596",
+    "5baed79643c71f1720e907ecdaa9969d25b5677b3bd3cbd466c87811c6b8aaab.json": "53ed4b27962ba945b7dfdcc61826b4a77eef8fe388fa340c5e7d42f826769f87",
+    "5c8108ce36fcc2d4f92ceb61b406ff2d85dbdcf4ce1d329550d08d7a4f0283e9.json": "64eaf3397483caefab8ba0158d163445a57230a998cf11f64fd9e6faccf38667",
+    "5e7ba342942677542e167abfd6f793f17714017ba5ab6a0c0ce31e755cdf2804.json": "637446db461206af19045cf26e55452ca6b47cd0ef66a2b3efa58d4cbdfd4483",
+    "628d8544b28be3e4392d04be96b79ea5331ee41aeb3c6a55404dfa07dae07757.json": "c5cc92b94cd00a6853c59fcada24972449daae66b4054340d01df976e59cb38a",
+    "6e929eb1be4471a72ed1801d26e0db64dbc60f9c83839e979ec722ce3f83bf4c.json": "688896a9af0c4ede2ac945d747e975902803a7946f2759080477409f1f3a6e15",
+    "7071771037c6c6b62eabbdbd5ad60fbe82455f43b2b2b2238bb13f547341ac66.json": "f31cc1f3159563314b371e33bc9bef1877c8cab05f61b2914f16c4204a89a858",
+    "7438cd151858a4c0bad7b983c2c01c95034c4f4811bf963014861743366850ff.json": "66fa724c8e1f14bed433403f92e7b8342dcc1caaabcbc04f5c289e902844ca8b",
+    "75c2ac0f0213de2b3df16015df8aa1b3dfc2d265cfb2554f5261cf1e7c8f5373.json": "ec5c672d5ea459947325362bf56b35a5476a3b698df0c246c74c5e331cba115e",
+    "7ae0dfcbbe3b8e8832b9a7b4488c0adf958d6021f240ca76d2af410f5c9f710e.json": "fa14a5820e27032b13530b8dc4c9c85185e3185983edc3fb4a57ce905b1856dc",
+    "7dec0c40c0c8049e9da1102c680de7e26eefef5da8d80836067b7c69cd32c51f.json": "340758f3f5cc0c146af1db65c3ba7650a34d9150427f144199462961bcf470da",
+    "8e5a995efcdec31d238bae2c78416ed11547b854599d8e2e6c1a4a09554eb0e9.json": "0cf743ad529e2abceb0c735ddb5563f842c1a93dd7d798b93ecc731e9f04373e",
+    "92911373fea337c28de64f99aa53d7733d05d1dd8e2aa2fab425a9a85876b7f6.json": "fb4e6782f76eadf242d9fe8393605022491d9a6b38935b6556bfc5c86f647427",
+    "9c3fd2b8b368585657fce3bf02e18a540908ed1566659098ed4ca0cd6df4800f.json": "d7927a21dfecda20079259829e215c71420ce9ef2264ca99ed42a5df8bbfb8ff",
+    "a1099154866dfbdf1a6fbe247a733dc7285ae83339980c3d5cef921caad84a6e.json": "787decfcfd57fb8814e19ab5199cb49bab60c70a5dc22f5b7ff3444801a4c318",
+    "a22bbae156bd63df0bc50adcbb4254babe1bc7da430db9c36c6a1154fb5b5683.json": "3b439f71d192593a40d90374bfd63f6b539a717cecc701affcab0727e4b43202",
+    "a38a378af3edc3e379bedb685b09323ae90a250aa22294e118b10c45577dcd1b.json": "c794b70427255e069136dd6e4028358925299b0b0a987b948ce5dd280b429469",
+    "aaee9e266359ac3d3cee80e2008338e78964781f903b83fcdc57d450a0b33611.json": "dc0a34eaf0792c3d4c362924bef72b793862b4217f86825ca96e1b1bbce2f41d",
+    "ac732575084f7b8cf7a195014de980ad26b32293d5bf5c4006209190e4a58e91.json": "bb670b51f618e7ec327a3f612545c6c07fb269fa7e3b7b24daf2334778d63ca3",
+    "b27bbaa93998eab4b08340bcc03d3b67e339484cb40ee8930ed28ebc5ba47b38.json": "c0d2a2a1ccdb78f27959a2bc312ebd0552bbdd069a517155c779b0099715d1cf",
+    "b597a0bc9814bc7b6c377fa235e638a1fa3234054c4235f04e12e7e8288dad56.json": "7c06460af1cae6ba2070f35f8dd658d6c59c2548461c7b81af68b5f0fd51dbd1",
+    "b96b973c291eafc6d4cee56244ec8f4da12fa4dafa6cda4be4d8e0f42c7ef165.json": "f8ccf4aff3427ed29c6923eff7fcf5a54b2ed72d5d75917978cdb8674ae64e14",
+    "bd4a3e168379c3bb67095a7a15632255a26159ea49f910164db1975df7ef4eff.json": "9c920e8a7b08f7d144c5e1e307a7c5ad7e842e1d8257b18c28e5432cfab0c419",
+    "c0263a0e4d80c217643e1bf0cfb28bc05d30f91860a998f0391e26f0c8d86878.json": "00bfee47a076adfd88dc34eb7aec3a891c3800ca83e57e4090565d7b57042d2e",
+    "e0e0a50028e3ec15c1eaa694ae567c8b9932d07ea434ea2bd2da69875f49dfe1.json": "6bd53d229e2714c82b96de7117b99764a13cd865afa2be26cdf6f126d094d142",
+    "e66427ee209ee110d59e9ac5be8e6631891d8d2570067d1438275f3e83192d1f.json": "13bbe94ffdadb83c3d6f0aea44eae03ab0eebe3ea43b6c4e6a447d7192eac224",
+    "e8b608c76e0b3e738b55740a8cbfb3e071a575e2f2372c960eb2209427960afe.json": "ad577b1eb4f7f5b6d0d96cf9ff85583115598e5d7430d5b93db03a038461d7cf",
+    "ea4c61ceb40d2707a31886fa96b9a93a5d625861c9264006cf7bcbbe1e676585.json": "c07c5d7e22bea5dc8d1e4991c4d49bc1aacc83d8cc72c038f074d7d364249c72",
+    "eae957a611e92411861013da2d6fa657a576470eb9cac213045d89d61fa1fb59.json": "ecb4f3e11c3398b9897d846fe6f384e2a0b0a49f71e22973df5c27898b0ff7a0",
+    "ecb9a232aa8473c3d15aecb7a1b85fe2fcc29dd222874c9534061a018d28bb88.json": "c62322677bbfea8c12066fd08116dd91c957f5932e15b7840a35309bbdc0aab3",
+    "ef24243263816a8d1de41b6344fd236de20bd254e9feed07b29c65bdbf5830b9.json": "629e51b52d4e667124407be3e8153a87635bee4469e95d19496eaed6f348bd92",
+    "f8731e17811744a4c39ce4a656d3818c8ee67a7d00ac6d1675c9be2ed90d9bbc.json": "bd997a8a5b221bf8265f81921c193bb54d5692f4f99f1243bdd33dae6d17e745"
+  },
+  "schema_version": 1,
+  "seed_sha256": "484eecea61d50b855a2e0670aeca07bc693d2e5595607c63f7c3ce20846f2299",
+  "seeds": [
+    {
+      "family": "Machine learning",
+      "full_name": "scikit-learn-contrib/imbalanced-learn",
+      "reason": "Learning from imbalanced datasets"
+    },
+    {
+      "family": "Machine learning",
+      "full_name": "scikit-learn-contrib/category_encoders",
+      "reason": "Encoding categorical features"
+    },
+    {
+      "family": "Machine learning",
+      "full_name": "scikit-learn-contrib/metric-learn",
+      "reason": "Metric learning with a scikit-learn interface"
+    },
+    {
+      "family": "Machine learning",
+      "full_name": "scikit-learn-contrib/sklearn-pandas",
+      "reason": "Integration of tabular data with scikit-learn"
+    },
+    {
+      "family": "Clustering",
+      "full_name": "scikit-learn-contrib/hdbscan",
+      "reason": "Density based clustering"
+    },
+    {
+      "family": "Visualization",
+      "full_name": "DistrictDataLabs/yellowbrick",
+      "reason": "Visual diagnostics for machine learning"
+    },
+    {
+      "family": "Anomaly detection",
+      "full_name": "yzhao062/pyod",
+      "reason": "Outlier detection toolkit"
+    },
+    {
+      "family": "Anomaly detection",
+      "full_name": "yzhao062/combo",
+      "reason": "Combination of machine learning models"
+    },
+    {
+      "family": "Visualization",
+      "full_name": "mwaskom/seaborn",
+      "reason": "Statistical visualization"
+    },
+    {
+      "family": "Visualization",
+      "full_name": "has2k1/plotnine",
+      "reason": "Grammar of graphics for Python"
+    },
+    {
+      "family": "Visualization",
+      "full_name": "has2k1/mizani",
+      "reason": "Scales and transformations used by plotnine"
+    },
+    {
+      "family": "Visualization",
+      "full_name": "ResidentMario/missingno",
+      "reason": "Visualization of missing tabular data"
+    },
+    {
+      "family": "Statistics",
+      "full_name": "raphaelvallat/pingouin",
+      "reason": "Statistical tests and analysis"
+    },
+    {
+      "family": "Statistics",
+      "full_name": "CamDavidsonPilon/lifelines",
+      "reason": "Survival analysis"
+    },
+    {
+      "family": "Machine learning",
+      "full_name": "rasbt/mlxtend",
+      "reason": "Extensions for machine learning workflows"
+    },
+    {
+      "family": "Statistics",
+      "full_name": "maximtrp/scikit-posthocs",
+      "reason": "Post hoc statistical tests"
+    },
+    {
+      "family": "Machine learning",
+      "full_name": "NicolasHug/Surprise",
+      "reason": "Recommendation algorithms with a scikit-learn style interface"
+    },
+    {
+      "family": "Anomaly detection",
+      "full_name": "yzhao062/SUOD",
+      "reason": "Scalable unsupervised outlier detection"
+    },
+    {
+      "family": "Time series",
+      "full_name": "alkaline-ml/pmdarima",
+      "reason": "Statistical time series modeling"
+    },
+    {
+      "family": "Time series",
+      "full_name": "skforecast/skforecast",
+      "reason": "Forecasting using machine learning regressors"
+    }
+  ]
+}
